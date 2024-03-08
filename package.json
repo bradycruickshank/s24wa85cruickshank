@@ -1,0 +1,25 @@
+{
+  "name": "s24wa85cruickshank",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "^4.3.4",
+    "express": "^4.18.3",
+    "http-errors": "^2.0.0",
+    "morgan": "^1.10.0",
+    "pug": "^3.0.2"
+  },
+  "description": "Work with express hosted on Render",
+  "main": "app.js",
+  "keywords": [
+    "express",
+    "server",
+    "render"
+  ],
+  "author": "Brady Cruickshank",
+  "license": "ISC"
+}
